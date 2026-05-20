@@ -14,9 +14,13 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@meteoradigital)
 [![Email](https://img.shields.io/badge/contato@meteoradigital.io-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@meteoradigital.io)
 
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=meteora-digital&style=for-the-badge&color=6D28D9&label=visitas)
+
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,30&height=3" width="100%" alt=""/>
 
 ## ◆ Quem somos
 
@@ -24,7 +28,7 @@ Combinamos **engenharia de software, IA generativa e design de produto** para en
 
 Nosso compromisso: **tecnologia que gera resultado de negócio** — plataformas estáveis, produtos rápidos no mercado e automações que liberam tempo das equipes.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,30&height=3" width="100%" alt=""/>
 
 ## ◆ O que fazemos
 
@@ -59,40 +63,27 @@ Chatbots em linguagem natural sobre dados de negócio, dashboards e relatórios 
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,30&height=3" width="100%" alt=""/>
 
 ## ◆ Stack
 
 <div align="center">
 
-**Frontend**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,php,python,vercel,supabase&perline=9" alt="Stack principal"/>
+</a>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+<br/><br/>
 
-**Backend**
+**Camada de IA**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Infra**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**IA**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,30&height=3" width="100%" alt=""/>
 
 ## ◆ Contato
 
