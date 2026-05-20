@@ -98,13 +98,13 @@ Chatbots em linguagem natural sobre dados de negócio, dashboards e relatórios 
 
 <div align="center">
 
-| Canal       | Link                                                                       |
-| ----------- | -------------------------------------------------------------------------- |
-| Site        | [meteoradigital.io](https://meteoradigital.io)                             |
-| Email       | [contato@meteoradigital.io](mailto:contato@meteoradigital.io)              |
-| LinkedIn    | [/company/meteoradigital](https://linkedin.com/company/meteoradigital)     |
-| Instagram   | [@meteoradigital.io](https://instagram.com/meteoradigital.io)              |
-| YouTube     | [@meteoradigital](https://youtube.com/@meteoradigital)                     |
+| | Canal       | Link                                                                       |
+|---|-------------|----------------------------------------------------------------------------|
+| <img src="https://cdn.simpleicons.org/vercel/000000" width="18"/> | Site        | [meteoradigital.io](https://meteoradigital.io)                             |
+| <img src="https://cdn.simpleicons.org/gmail/EA4335" width="18"/> | Email       | [contato@meteoradigital.io](mailto:contato@meteoradigital.io)              |
+| <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18"/> | LinkedIn    | [/company/meteoradigital](https://linkedin.com/company/meteoradigital)     |
+| <img src="https://cdn.simpleicons.org/instagram/E4405F" width="18"/> | Instagram   | [@meteoradigital.io](https://instagram.com/meteoradigital.io)              |
+| <img src="https://cdn.simpleicons.org/youtube/FF0000" width="18"/> | YouTube     | [@meteoradigital](https://youtube.com/@meteoradigital)                     |
 
 </div>
 
